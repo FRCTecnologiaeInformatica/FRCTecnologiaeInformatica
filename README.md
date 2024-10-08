@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FRCTecnologiaeInformatica
+- 👀 I’m interested in Python web development, especially accounting systems
+- 🌱 I’m currently learning Python web development with tutorials
+- 📫 How to reach me globaldeveloment@gmail.com
